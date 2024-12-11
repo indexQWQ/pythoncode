@@ -1,0 +1,10 @@
+x=True
+print(x)
+print(type(x))
+print(x+0)
+print(False+0)
+print('--------------')
+print(bool(29))
+print(bool(0),bool(0.0))
+print(bool('hello'),bool(''))
+print(bool(False),bool(None))
